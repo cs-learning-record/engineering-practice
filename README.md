@@ -119,10 +119,7 @@
 20. [在线电子书转换器](http://cn.epubee.com/)
 21. [vim-web](https://github.com/jaywcjlove/vim-web)
 22. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
-23. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
-24. [你所需要的 npm 知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
-25. [教你从零写一个 nodejs 包，然后发布至 npm 源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
-26. [前端开发环境](http://fe.surge.sh/guide/)
+23. [前端开发环境](http://fe.surge.sh/guide/)
 
 ## 七、脚手架
 
