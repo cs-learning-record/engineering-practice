@@ -58,6 +58,7 @@
 41. [服务端高并发分布式架构演进之路](https://segmentfault.com/a/1190000018626163)
 42. [浅谈 web 网站架构演变过程](https://www.cnblogs.com/xiaoMzjm/p/5223799.html)
 43. [5 年时间服务器从 0 到 200，一个创业公司的架构野蛮生长史](https://zhuanlan.zhihu.com/p/33401898)
+44. [从零到百亿互联网金融架构发展史](https://www.cnblogs.com/ityouknow/p/6276686.html)
 
 ## 四、Electron&PWA&Serverless
 
