@@ -42,14 +42,7 @@
 25. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
 26. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
 27. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
-28. [移动 web 最佳实践](https://juejin.im/post/5d759f706fb9a06afa32adec)
-29. [解密国内 BAT 等大厂前端技术体系-阿里篇](https://mp.weixin.qq.com/s/haSCjEOVCZSeaT2q5E2BQw)
-30. [解密国内 BAT 等大厂前端技术体系-百度篇](https://mp.weixin.qq.com/s/O_nzIM6vdfJfd2wKDsuZAA)
-31. [解密国内 BAT 等大厂前端技术体系-腾讯篇](https://mp.weixin.qq.com/s/hisqcnv8g5XMOF6bzFV7pw)
-32. [解密国内 BAT 等大厂前端技术体系-携程篇（长文建议收藏）](https://mp.weixin.qq.com/s/IbORf-lQOLyaS8sBO5ILOw)
-33. [解密国内 BAT 等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://mp.weixin.qq.com/s/gxR-KPCdfbHWX5I1um5x_g)
-34. [解密国内 BAT 等大厂前端技术体系-美团点评之下篇（长文建议收藏）](https://mp.weixin.qq.com/s/Tdy-SsywdoR6tPhkp8gsjg)
-35. [框架设计：PC 端单页多页框架如何设计与落地](https://mp.weixin.qq.com/s/hRpwptzR4z9szQai_5GraQ)
+28. [框架设计：PC 端单页多页框架如何设计与落地](https://mp.weixin.qq.com/s/hRpwptzR4z9szQai_5GraQ)
 
 ## 五、前端工具
 
