@@ -60,15 +60,6 @@
 43. [5 年时间服务器从 0 到 200，一个创业公司的架构野蛮生长史](https://zhuanlan.zhihu.com/p/33401898)
 44. [从零到百亿互联网金融架构发展史](https://www.cnblogs.com/ityouknow/p/6276686.html)
 
-## 四、Electron&PWA&Serverless
-
-1. [Flutter 完整开发实战详解系列](https://github.com/CarGuo/GSYFlutterBook)
-2. [超完整的 Flutter 项目](https://github.com/CarGuo/GSYGithubAppFlutter)
-3. [FlutterDemo 合集](https://github.com/OpenFlutter/Flutter-Notebook)
-4. [PWA 入门](https://zhuanlan.zhihu.com/p/32601560)
-5. [【PWA 学习与实践】(1) 2018，开始你的 PWA 学习之旅](https://github.com/alienzhou/blog/issues/2)
-6. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
-
 ## 五、前端工具
 
 1. [gulp 学习](https://www.gulpjs.com.cn/)
