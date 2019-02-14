@@ -42,6 +42,8 @@
 10. [前端性能优化之旅](https://github.com/alienzhou/fe-performance-journey)
 11. [前端性能优化之白屏时间](https://mp.weixin.qq.com/s/N_6faORvlDSxFQMh1o2naA)
 12. [网站性能优化实战——从12.67s到1.06s的故事](https://juejin.im/post/5b6fa8c86fb9a0099910ac91)
+13. [【译】2018 前端性能优化清单 —— 第一部分](https://juejin.im/post/5a67e49df265da3e377c2d59)
+14. [[译] 2019 前端性能优化年度总结 — 第一部分](https://juejin.im/post/5c4418006fb9a049c043545e)
 
 ## 三、工程化
 
@@ -84,6 +86,7 @@
 1. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
 2. [面向传统，Serverless 进化之路](https://mp.weixin.qq.com/s/DSFms7ovOMMuhe914Z7vcw)
 3. [写给前端工程师的 Serverless 入门](https://mp.weixin.qq.com/s/JXDMAmKfUOj4V66yVaT_6Q)
+4. [[译] 微前端](https://juejin.im/post/5d0e367b6fb9a07ebf4b781a)
 
 ## 五、规范化
 
@@ -98,12 +101,6 @@
 
 ## 六、前端工具
 
-1. [git 学习](https://github.com/geeeeeeeeek/git-recipes)
-2. [Git 工作流指南](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
-3. [git 常用命令](https://github.com/ftTony/blog/issues/27)
-4. [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
-5. [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
-6. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 7.  [gulp 学习](https://www.gulpjs.com.cn/)
 8.  [在线电子书转换器](http://cn.epubee.com/)
 9.  [vim-web](https://github.com/jaywcjlove/vim-web)
