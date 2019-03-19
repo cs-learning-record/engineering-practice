@@ -98,25 +98,16 @@
 
 ## 六、前端工具
 
-1. [webpack 学习记录](https://github.com/ftTony/blog/issues/2)
-2. [webpack 处理流程分析](https://mp.weixin.qq.com/s/1BH90Nn6rfcOfywGpvWwhA)
-3. [git 学习](https://github.com/geeeeeeeeek/git-recipes)
-4. [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
-5. [Git 工作流指南](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
-6. [git 常用命令](https://github.com/ftTony/blog/issues/27)
-7. [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
-8. [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
-9. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-10. [gulp 学习](https://www.gulpjs.com.cn/)
-11. [由浅入深 Webpack](https://github.com/yanlele/node-index/blob/master/book/11、深入webpack工程化/01、由浅入深Webpack/README.md)
-12. [搜罗一切 webpack 的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
-13. [【webpack 进阶】你真的掌握了 loader 么？- loader 十问](https://github.com/alienzhou/blog/issues/21)
-14. [[webpack]源码解读：命令行输入 webpack 的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12)
-15. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
-16. [在线电子书转换器](http://cn.epubee.com/)
-17. [vim-web](https://github.com/jaywcjlove/vim-web)
-18. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
-19. [前端开发环境](http://fe.surge.sh/guide/)
+1. [git 学习](https://github.com/geeeeeeeeek/git-recipes)
+2. [Git 工作流指南](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
+3. [git 常用命令](https://github.com/ftTony/blog/issues/27)
+4. [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
+5. [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
+6. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+7.  [gulp 学习](https://www.gulpjs.com.cn/)
+8.  [在线电子书转换器](http://cn.epubee.com/)
+9.  [vim-web](https://github.com/jaywcjlove/vim-web)
+11. [前端开发环境](http://fe.surge.sh/guide/)
 
 ## 七、脚手架
 
