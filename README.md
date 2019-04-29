@@ -60,7 +60,7 @@
 9. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
 10. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
 11. [大前端](https://github.com/azl397985856/automate-everything)
-12. [yhlben 的前端日志](https://yhlben.github.io/blog/)
+12. [lmjben 的前端日志](https://lmjben.github.io/blog/)
 13. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
 14. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
 15. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
