@@ -131,11 +131,7 @@
 19. [大流量的下兜底容灾方案](https://www.barretlee.com/blog/2015/09/16/backup-solution-at-big-traffic/)
 20. [一步一步搭建前端监控系统：如何记录用户行为？](https://juejin.im/post/5d44ec1cf265da039a2869c0)
 
-## 九、部署&构建
-
-1. [使用 Docker 构建前端应用](https://zhuanlan.zhihu.com/p/39241059)
-
-## 十、调试
+## 九、调试
 
 1. [直播学习与实践](https://github.com/ftTony/blog/issues/4)
 2. [Chrome Devtools 高级调试指南（新）](https://mp.weixin.qq.com/s/tF30zFXzuI7e2fko0sgBEQ)
@@ -144,7 +140,7 @@
 5. [【译】Google 官方文章——如何去做 code review](https://juejin.im/post/5d80c27cf265da03e61b45c7)
 6. [前端代码评审 Checklist 清单](https://github.com/fengshi123/blog/issues/1)
 
-## 十一、联系作者
+## 十、联系作者
 
 <div align="center">
     <p>
