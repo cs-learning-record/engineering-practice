@@ -1,3 +1,24 @@
+## 浏览器
+1. [浏览器缓存](https://github.com/ftTony/blog/issues/5)
+1. [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+2. [浏览器渲染原理](https://github.com/ftTony/blog/issues/20)
+3. [九种跨域方式](https://github.com/ftTony/blog/issues/21)
+1. [深度解析 CORS 跨域原理及 @koa/cors 源码](https://mp.weixin.qq.com/s/S9NYjMAXq31zbieYBRG-rg)
+1. [每个前端工程师都应该了解的图片知识(长文建议收藏)](https://mp.weixin.qq.com/s/O1n7_t4izdmpvn2mFrB-kg)
+1. [深入理解现代浏览器](https://mp.weixin.qq.com/s/LkKNjrkx1V32lCjv92Cuuw)
+1. [V8引擎初步介绍](https://github.com/yanlele/node-index/tree/master/18%E5%B9%B4/12%E6%9C%88/03%E3%80%81V8%E5%BC%95%E6%93%8E%E5%88%9D%E6%AD%A5%E4%BB%8B%E7%BB%8D#%E6%B8%B2%E6%9F%93%E5%BC%95%E6%93%8E%E4%B8%8E%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93)
+1. [Chromium中文文档](https://github.com/ahangchen/Chromium_doc_zh)
+1. [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
+
+## 性能
+1. [前端性能清单](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)
+2. [Web性能优化：图片优化](http://www.cnblogs.com/wizcabbit/p/web-image-optimization.html)
+3. [嗨，送你一张Web性能优化地图](https://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247483962&idx=1&sn=f9337ad983c6303811eb43d07d9f23d5&chksm=f96edb93ce195285943211e645cc683989826abdaaa8ab0b073a20761369ed04843c835c50b7#rd)
+4. [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
+5. [前端性能(一)](https://github.com/ftTony/blog/issues/28)
+6. [前端性能(二)](https://github.com/ftTony/blog/issues/29)
+7. [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
+
 ## 工程
 
 1. [前端工程](https://www.zhihu.com/question/24558375)
@@ -76,7 +97,9 @@
 1. [Node+GitLab实现小程序CI系统](https://mp.weixin.qq.com/s/5NsY5cj0n1AuU0-zT1VrEQ)
 1. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/0VtDFv5bxJp2OyJGufBV0w)
 
+## 调试
+1. [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
+2. [微信调试](https://github.com/wuchangming/spy-debugger)
+
 ## 其它
 2. [页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556329&idx=1&sn=08c15ed33a14026185184a0e422b0672&chksm=80255e28b752d73e45b1d99156fa51af28bc34756b2f5f7736b8bce742c5f5f636ef8814cbe9&scene=21#wechat_redirect)
-4. [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
-5. [微信调试](https://github.com/wuchangming/spy-debugger)
