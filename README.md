@@ -57,7 +57,6 @@
 2. [git学习](https://github.com/geeeeeeeeek/git-recipes)
 3. [gulp学习](https://www.gulpjs.com.cn/)
 1. [由浅入深Webpack](https://github.com/yanlele/node-index/blob/master/book/11、深入webpack工程化/01、由浅入深Webpack/README.md)
-1. [前端库](https://github.com/sorrycc/awesome-f2e-libs)
 1. [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
 1. [【webpack进阶】你真的掌握了loader么？- loader十问](https://github.com/alienzhou/blog/issues/21)
 1. [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12)
@@ -70,6 +69,13 @@
 1. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 1. [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
 3. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
+
+## 脚手架
+
+1. [webpack的多页应用脚手架](https://github.com/Array-Huang/webpack-seed)
+1. [利用webpack搭建脚手架一套完整流程](https://mp.weixin.qq.com/s/23f64lu-qAEAK76lFYyzow)
+1. [教你从零开始搭建一款前端脚手架工具](https://juejin.im/post/5c237d1a5188256b9e0f21e1)
+1. [如何快速开发一个自己的项目脚手架？](https://github.com/alienzhou/blog/issues/29)
 
 ## 监控&部署&构建
 
@@ -88,8 +94,6 @@
 1. [前端日志监控](https://github.com/a597873885/webfunny_monitor)
 1. [前端数据之美 -- 基础篇](http://fex.baidu.com/blog/2014/05/front_end-data/)
 1. [持续集成 vs 持续交付 vs 持续部署](https://mp.weixin.qq.com/s/Y09_FYS2IWae24geE7tK-Q)
-1. [教你从零开始搭建一款前端脚手架工具](https://juejin.im/post/5c237d1a5188256b9e0f21e1)
-1. [如何快速开发一个自己的项目脚手架？](https://github.com/alienzhou/blog/issues/29)
 1. [使用 Docker 构建前端应用](https://zhuanlan.zhihu.com/p/39241059)
 1. [Jenkins打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
 1. [Nginx配置详解](https://www.cnblogs.com/knowledgesea/p/5175711.html)
