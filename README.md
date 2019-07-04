@@ -50,6 +50,7 @@
 1. [前端代码质量管理（一）](https://juejin.im/post/5cb5c3445188256c83279255)
 1. [前端开发规范：命名规范、html规范、css规范、js规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
 1. [前端开发规范](https://github.com/senntyou/blogs/blob/master/architecture/3.md)
+2. [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 
 ## webpack&git&gulp
 
@@ -70,6 +71,7 @@
 1. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 1. [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
 3. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
+4. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
 
 ## 脚手架
 
@@ -78,7 +80,7 @@
 1. [教你从零开始搭建一款前端脚手架工具](https://juejin.im/post/5c237d1a5188256b9e0f21e1)
 1. [如何快速开发一个自己的项目脚手架？](https://github.com/alienzhou/blog/issues/29)
 
-## 监控&部署&构建
+## 监控
 
 1. [如何优雅处理前端异常？](https://zhuanlan.zhihu.com/p/51800345)
 3. [前端监控](https://juejin.im/post/5b5dcfb46fb9a04f8f37afbb)
@@ -94,13 +96,16 @@
 1. [生产环境报错如何定位源码位置](https://mp.weixin.qq.com/s/ICfqj2SgTD_QEC0KH8G9vg)
 1. [前端日志监控](https://github.com/a597873885/webfunny_monitor)
 1. [前端数据之美 -- 基础篇](http://fex.baidu.com/blog/2014/05/front_end-data/)
-1. [持续集成 vs 持续交付 vs 持续部署](https://mp.weixin.qq.com/s/Y09_FYS2IWae24geE7tK-Q)
-1. [使用 Docker 构建前端应用](https://zhuanlan.zhihu.com/p/39241059)
-1. [Jenkins打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
-1. [Nginx配置详解](https://www.cnblogs.com/knowledgesea/p/5175711.html)
-1. [Nginx代理功能与负载均衡详解](https://www.cnblogs.com/knowledgesea/p/5199046.html)
-1. [Node+GitLab实现小程序CI系统](https://mp.weixin.qq.com/s/5NsY5cj0n1AuU0-zT1VrEQ)
-1. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/0VtDFv5bxJp2OyJGufBV0w)
+2. [前端-埋点-理念-通识-浅谈](https://juejin.im/post/5d182a3bf265da1b667bf0be)
+
+## 部署&构建
+3. [持续集成 vs 持续交付 vs 持续部署](https://mp.weixin.qq.com/s/Y09_FYS2IWae24geE7tK-Q)
+4. [使用 Docker 构建前端应用](https://zhuanlan.zhihu.com/p/39241059)
+5. [Jenkins打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
+6. [Nginx配置详解](https://www.cnblogs.com/knowledgesea/p/5175711.html)
+7. [Nginx代理功能与负载均衡详解](https://www.cnblogs.com/knowledgesea/p/5199046.html)
+8. [Node+GitLab实现小程序CI系统](https://mp.weixin.qq.com/s/5NsY5cj0n1AuU0-zT1VrEQ)
+9. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/0VtDFv5bxJp2OyJGufBV0w)
 
 ## 调试
 1. [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
@@ -108,3 +113,4 @@
 
 ## 其它
 2. [页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556329&idx=1&sn=08c15ed33a14026185184a0e422b0672&chksm=80255e28b752d73e45b1d99156fa51af28bc34756b2f5f7736b8bce742c5f5f636ef8814cbe9&scene=21#wechat_redirect)
+3. [前端学serverless系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
