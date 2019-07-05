@@ -3,9 +3,9 @@
 
 |                  I                  |              II               |          III          |             IV              |            V             |                       VI                        |            VII            |              VIII               |              IX               |             X              |               XI               |           XII            |
 | :---------------------------------: | :---------------------------: | :-------------------: | :-------------------------: | :----------------------: | :---------------------------------------------: | :-----------------------: | :-----------------------------: | :---------------------------: | :------------------------: | :----------------------------: | :----------------------: |
-| 浏览器<br />[📝](#一数据结构与算法) | 性能<br/>[☕️](#二JavaScript) | css<br />[🐍](#三css) | 工程化<br />[🔗](#四工程化) | 面试<br/>[💾](#五面试题) | Electron&PWA&Serverless<br/>[💻](#六计算机基础) | 规范化<br />[📖](#七后端) | 前端工具<br/> [🔍](#八机器学习) | 脚手架<br/>[☁️](#九书籍&电影) | 监控<br/>[📃](#十学习资料) | 部署&构建<br />[💡](#十一成长) | 调试<br/>[🔨](#十二其它) |
+| 浏览器<br />[📝](#一浏览器) | 性能<br/>[☕️](#二性能) | 工程化<br />[🐍](#三工程化) | Electron&PWA&Serverless<br />[🔗](#四Electron&PWA&Serverless) | 规范化<br />[📖](#五规范化) | 前端工具<br/> [🔍](#六前端工具) | 脚手架<br/>[☁️](#七脚手架) | 监控<br/>[📃](#八监控) | 部署&构建<br />[💡](#九部署&构建) | 调试<br/>[🔨](#十调试) |
 
-## 浏览器
+## 一、浏览器
 
 1. [浏览器缓存](https://github.com/ftTony/blog/issues/5)
 1. [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
@@ -18,7 +18,7 @@
 1. [Chromium 中文文档](https://github.com/ahangchen/Chromium_doc_zh)
 1. [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
 
-## 性能
+## 二、性能
 
 1. [前端性能清单](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)
 2. [Web 性能优化：图片优化](http://www.cnblogs.com/wizcabbit/p/web-image-optimization.html)
@@ -28,7 +28,7 @@
 6. [前端性能(二)](https://github.com/ftTony/blog/issues/29)
 7. [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
 
-## 工程化
+## 三、工程化
 
 1. [前端工程](https://www.zhihu.com/question/24558375)
 1. [前端工程与模块化框架](https://github.com/fouber/blog/issues/4)
@@ -39,7 +39,7 @@
 1. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
 1. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
 
-## Electron&PWA&Serverless
+## 四、Electron&PWA&Serverless
 
 1. [Flutter 完整开发实战详解系列](https://github.com/CarGuo/GSYFlutterBook)
 1. [用 JS 开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s/owtLBHgpzXqbJs3P1mjmLA)
@@ -50,14 +50,14 @@
 1. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
 1. [前端学 serverless 系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
 
-## 规范化
+## 五、规范化
 
 1. [前端代码质量管理（一）](https://juejin.im/post/5cb5c3445188256c83279255)
 1. [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
 1. [前端开发规范](https://github.com/senntyou/blogs/blob/master/architecture/3.md)
 1. [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 
-## 前端工具
+## 六、前端工具
 
 1. [webpack 学习记录](https://github.com/ftTony/blog/issues/2)
 1. [深入 Babel，这一篇就够了](https://juejin.im/post/5c21b584e51d4548ac6f6c99)
@@ -78,7 +78,7 @@
 1. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
 1. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
 
-## 脚手架
+## 七、脚手架
 
 1. [webpack 的多页应用脚手架](https://github.com/Array-Huang/webpack-seed)
 1. [利用 webpack 搭建脚手架一套完整流程](https://mp.weixin.qq.com/s/23f64lu-qAEAK76lFYyzow)
@@ -87,7 +87,7 @@
 1. [自动开发生成脚手架](https://github.com/yanlele/le-cli)
 1. [搭建自己的前端脚手架](https://github.com/senntyou/blogs/blob/master/advanced/13.md)
 
-## 监控
+## 八、监控
 
 1. [如何优雅处理前端异常？](https://zhuanlan.zhihu.com/p/51800345)
 2. [前端监控](https://juejin.im/post/5b5dcfb46fb9a04f8f37afbb)
@@ -105,7 +105,7 @@
 14. [前端数据之美 -- 基础篇](http://fex.baidu.com/blog/2014/05/front_end-data/)
 15. [前端-埋点-理念-通识-浅谈](https://juejin.im/post/5d182a3bf265da1b667bf0be)
 
-## 部署&构建
+## 九、部署&构建
 
 3. [持续集成 vs 持续交付 vs 持续部署](https://mp.weixin.qq.com/s/Y09_FYS2IWae24geE7tK-Q)
 4. [使用 Docker 构建前端应用](https://zhuanlan.zhihu.com/p/39241059)
@@ -115,13 +115,13 @@
 8. [Node+GitLab 实现小程序 CI 系统](https://mp.weixin.qq.com/s/5NsY5cj0n1AuU0-zT1VrEQ)
 9. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/0VtDFv5bxJp2OyJGufBV0w)
 
-## 调试
+## 十、调试
 
 1. [直播学习与实践](https://github.com/ftTony/blog/issues/4)
 1. [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
 1. [微信调试](https://github.com/wuchangming/spy-debugger)
 
-## 六、联系作者
+## 十一、联系作者
 
 <div align="center">
     <p>
