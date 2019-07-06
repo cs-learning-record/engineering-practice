@@ -86,6 +86,7 @@
 1. [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
 1. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
 1. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
+2. [你所需要的npm知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
 
 ## 七、脚手架
 
