@@ -65,6 +65,7 @@
 1. [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
 1. [前端开发规范](https://github.com/senntyou/blogs/blob/master/architecture/3.md)
 1. [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
+2. [前端开发规范手册](https://github.com/Aaaaaashu/Guide)
 
 ## 六、前端工具
 
