@@ -112,9 +112,12 @@
 10. [深入理解前端性能监控](https://juejin.im/post/5caaacc0e51d452b45296487)
 11. [前端黑科技：美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4)
 12. [生产环境报错如何定位源码位置](https://mp.weixin.qq.com/s/ICfqj2SgTD_QEC0KH8G9vg)
-13. [前端日志监控](https://github.com/a597873885/webfunny_monitor)
-14. [前端数据之美 -- 基础篇](http://fex.baidu.com/blog/2014/05/front_end-data/)
-15. [前端-埋点-理念-通识-浅谈](https://juejin.im/post/5d182a3bf265da1b667bf0be)
+16. [前端数据之美 -- 基础篇](http://fex.baidu.com/blog/2014/05/front_end-data/)
+17. [前端-埋点-理念-通识-浅谈](https://juejin.im/post/5d182a3bf265da1b667bf0be)
+18. [前端日志监控](https://github.com/a597873885/webfunny_monitor)
+19. [前端监控，性能监控平台](https://github.com/kisslove/web-monitoring)
+20. [浏览器端页面性能](https://github.com/wangweianger/web-report-sdk)
+21. [高性能、高可用的前端性能监控和统计平台](https://github.com/wangweianger/zanePerfor)
 
 ## 九、部署&构建
 
