@@ -88,6 +88,7 @@
 1. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
 1. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
 2. [你所需要的npm知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
+3. [教你从零写一个nodejs包，然后发布至npm源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
 
 ## 七、脚手架
 
