@@ -35,6 +35,7 @@
 5. [前端性能(一)](https://github.com/ftTony/blog/issues/28)
 6. [前端性能(二)](https://github.com/ftTony/blog/issues/29)
 7. [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
+8. [Web性能](https://github.com/laoqiren/web-performance)
 
 ## 三、工程化
 
