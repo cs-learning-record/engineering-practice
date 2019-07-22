@@ -30,12 +30,13 @@
 
 1. [前端性能清单](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)
 2. [Web 性能优化：图片优化](http://www.cnblogs.com/wizcabbit/p/web-image-optimization.html)
-3. [嗨，送你一张 Web 性能优化地图](https://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247483962&idx=1&sn=f9337ad983c6303811eb43d07d9f23d5&chksm=f96edb93ce195285943211e645cc683989826abdaaa8ab0b073a20761369ed04843c835c50b7#rd)
-4. [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
-5. [前端性能(一)](https://github.com/ftTony/blog/issues/28)
-6. [前端性能(二)](https://github.com/ftTony/blog/issues/29)
-7. [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
-8. [Web性能](https://github.com/laoqiren/web-performance)
+3. [图像优化自动化实用指南](https://mp.weixin.qq.com/s/3aosOSPut-zkqJDhBfVQ1Q)
+4. [嗨，送你一张 Web 性能优化地图](https://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247483962&idx=1&sn=f9337ad983c6303811eb43d07d9f23d5&chksm=f96edb93ce195285943211e645cc683989826abdaaa8ab0b073a20761369ed04843c835c50b7#rd)
+5. [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
+6. [前端性能(一)](https://github.com/ftTony/blog/issues/28)
+7. [前端性能(二)](https://github.com/ftTony/blog/issues/29)
+8. [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
+9. [Web性能](https://github.com/laoqiren/web-performance)
 
 ## 三、工程化
 
