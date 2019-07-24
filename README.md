@@ -46,8 +46,9 @@
 1. [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 1. [Web 前端开发的后端指南](https://mp.weixin.qq.com/s/tbJ-X3_zKi4vR_1ST5maTQ)
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
-1. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
-1. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
+2. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
+3. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
+4. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
 
 ## 四、Electron&PWA&Serverless
 
