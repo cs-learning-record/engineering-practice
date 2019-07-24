@@ -102,6 +102,7 @@
 1. [如何快速开发一个自己的项目脚手架？](https://github.com/alienzhou/blog/issues/29)
 1. [自动开发生成脚手架](https://github.com/yanlele/le-cli)
 1. [搭建自己的前端脚手架](https://github.com/senntyou/blogs/blob/master/advanced/13.md)
+2. [【中高级前端必备】手摸手教你撸一个脚手架](https://mp.weixin.qq.com/s/noKG8ylD2EbsB1dENh2xug)
 
 ## 八、监控
 
