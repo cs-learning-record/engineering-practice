@@ -1,5 +1,6 @@
 ![image](./img/timg.jpg)
 <br>
+
 ## 前言
 
 本人平时学习及收集内容，欢迎参入一起讨论。
@@ -8,9 +9,8 @@
 
 暂时欠着
 
-
-|              I              |           II           |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
-| :-------------------------: | :--------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
+|              I              |           II            |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
+| :-------------------------: | :---------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
 | 浏览器<br />[📝](#一浏览器) | 性能<br/>[☕️](#二性能) | 工程化<br />[🐍](#三工程化) | Electron&PWA&Serverless<br />[🔗](#四Electron&PWA&Serverless) | 规范化<br />[📖](#五规范化) | 前端工具<br/> [🔍](#六前端工具) | 脚手架<br/>[☁️](#七脚手架) | 监控<br/>[📃](#八监控) | 部署&构建<br />[💡](#九部署&构建) | 调试<br/>[🔨](#十调试) |
 
 ## 一、浏览器
@@ -30,13 +30,11 @@
 
 1. [前端性能清单](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)
 2. [Web 性能优化：图片优化](http://www.cnblogs.com/wizcabbit/p/web-image-optimization.html)
-3. [图像优化自动化实用指南](https://mp.weixin.qq.com/s/3aosOSPut-zkqJDhBfVQ1Q)
-4. [嗨，送你一张 Web 性能优化地图](https://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247483962&idx=1&sn=f9337ad983c6303811eb43d07d9f23d5&chksm=f96edb93ce195285943211e645cc683989826abdaaa8ab0b073a20761369ed04843c835c50b7#rd)
-5. [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
-6. [前端性能(一)](https://github.com/ftTony/blog/issues/28)
-7. [前端性能(二)](https://github.com/ftTony/blog/issues/29)
-8. [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
-9. [Web性能](https://github.com/laoqiren/web-performance)
+3. [嗨，送你一张 Web 性能优化地图](https://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247483962&idx=1&sn=f9337ad983c6303811eb43d07d9f23d5&chksm=f96edb93ce195285943211e645cc683989826abdaaa8ab0b073a20761369ed04843c835c50b7#rd)
+4. [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
+5. [前端性能(一)](https://github.com/ftTony/blog/issues/28)
+6. [前端性能(二)](https://github.com/ftTony/blog/issues/29)
+7. [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
 
 ## 三、工程化
 
@@ -46,24 +44,20 @@
 1. [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 1. [Web 前端开发的后端指南](https://mp.weixin.qq.com/s/tbJ-X3_zKi4vR_1ST5maTQ)
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
-2. [yhlben的前端日志](https://yhlben.github.io/blog/)
-3. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
-4. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
-5. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
-6. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
+1. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
+1. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
 
 ## 四、Electron&PWA&Serverless
 
 1. [Flutter 完整开发实战详解系列](https://github.com/CarGuo/GSYFlutterBook)
-2. [FlutterDemo合集](https://github.com/OpenFlutter/Flutter-Notebook)
-3. [用 JS 开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s/owtLBHgpzXqbJs3P1mjmLA)
-4. [Electron 构建跨平台应用 Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
-5. [electron 中文教程](https://wizardforcel.gitbooks.io/electron-doc/)
-6. [PWA 入门](https://zhuanlan.zhihu.com/p/32601560)
-7. [【PWA 学习与实践】(1) 2018，开始你的 PWA 学习之旅](https://github.com/alienzhou/blog/issues/2)
-8. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
-9. [前端学 serverless 系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
-10. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
+1. [用 JS 开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s/owtLBHgpzXqbJs3P1mjmLA)
+1. [Electron 构建跨平台应用 Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
+1. [electron 中文教程](https://wizardforcel.gitbooks.io/electron-doc/)
+1. [PWA 入门](https://zhuanlan.zhihu.com/p/32601560)
+1. [【PWA 学习与实践】(1) 2018，开始你的 PWA 学习之旅](https://github.com/alienzhou/blog/issues/2)
+1. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
+1. [前端学 serverless 系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
+1. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
 
 ## 五、规范化
 
@@ -71,31 +65,28 @@
 1. [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
 1. [前端开发规范](https://github.com/senntyou/blogs/blob/master/architecture/3.md)
 1. [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
-2. [前端开发规范手册](https://github.com/Aaaaaashu/Guide)
 
 ## 六、前端工具
 
 1. [webpack 学习记录](https://github.com/ftTony/blog/issues/2)
 1. [深入 Babel，这一篇就够了](https://juejin.im/post/5c21b584e51d4548ac6f6c99)
-2. [git 学习](https://github.com/geeeeeeeeek/git-recipes)
-3.  [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
-4. [Git工作流指南](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
-12. [git 常用命令](https://github.com/ftTony/blog/issues/27)
-13. [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
-14. [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
-16. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-5. [gulp 学习](https://www.gulpjs.com.cn/)
-6. [由浅入深 Webpack](https://github.com/yanlele/node-index/blob/master/book/11、深入webpack工程化/01、由浅入深Webpack/README.md)
-7. [搜罗一切 webpack 的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
-8. [【webpack 进阶】你真的掌握了 loader 么？- loader 十问](https://github.com/alienzhou/blog/issues/21)
-9. [[webpack]源码解读：命令行输入 webpack 的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12)
-10. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
-11. [在线电子书转换器](http://cn.epubee.com/)
-15. [vim-web](https://github.com/jaywcjlove/vim-web)
-17. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
-18. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
-19. [你所需要的npm知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
-20. [教你从零写一个nodejs包，然后发布至npm源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
+1. [git 学习](https://github.com/geeeeeeeeek/git-recipes)
+1. [gulp 学习](https://www.gulpjs.com.cn/)
+1. [由浅入深 Webpack](https://github.com/yanlele/node-index/blob/master/book/11、深入webpack工程化/01、由浅入深Webpack/README.md)
+1. [搜罗一切 webpack 的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
+1. [【webpack 进阶】你真的掌握了 loader 么？- loader 十问](https://github.com/alienzhou/blog/issues/21)
+1. [[webpack]源码解读：命令行输入 webpack 的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12)
+1. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
+1. [在线电子书转换器](http://cn.epubee.com/)
+1. [git 常用命令](https://github.com/ftTony/blog/issues/27)
+1. [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
+1. [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
+1. [vim-web](https://github.com/jaywcjlove/vim-web)
+1. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+1. [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
+1. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
+1. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
+1. [你所需要的 npm 知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
 
 ## 七、脚手架
 
@@ -105,7 +96,6 @@
 1. [如何快速开发一个自己的项目脚手架？](https://github.com/alienzhou/blog/issues/29)
 1. [自动开发生成脚手架](https://github.com/yanlele/le-cli)
 1. [搭建自己的前端脚手架](https://github.com/senntyou/blogs/blob/master/advanced/13.md)
-2. [【中高级前端必备】手摸手教你撸一个脚手架](https://mp.weixin.qq.com/s/noKG8ylD2EbsB1dENh2xug)
 
 ## 八、监控
 
@@ -121,13 +111,9 @@
 10. [深入理解前端性能监控](https://juejin.im/post/5caaacc0e51d452b45296487)
 11. [前端黑科技：美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4)
 12. [生产环境报错如何定位源码位置](https://mp.weixin.qq.com/s/ICfqj2SgTD_QEC0KH8G9vg)
-16. [前端数据之美 -- 基础篇](http://fex.baidu.com/blog/2014/05/front_end-data/)
-17. [前端-埋点-理念-通识-浅谈](https://juejin.im/post/5d182a3bf265da1b667bf0be)
-18. [前端日志监控](https://github.com/a597873885/webfunny_monitor)
-19. [前端监控，性能监控平台](https://github.com/kisslove/web-monitoring)
-20. [浏览器端页面性能](https://github.com/wangweianger/web-report-sdk)
-21. [高性能、高可用的前端性能监控和统计平台](https://github.com/wangweianger/zanePerfor)
-22. [大流量的下兜底容灾方案](https://www.barretlee.com/blog/2015/09/16/backup-solution-at-big-traffic/)
+13. [前端日志监控](https://github.com/a597873885/webfunny_monitor)
+14. [前端数据之美 -- 基础篇](http://fex.baidu.com/blog/2014/05/front_end-data/)
+15. [前端-埋点-理念-通识-浅谈](https://juejin.im/post/5d182a3bf265da1b667bf0be)
 
 ## 九、部署&构建
 
@@ -149,7 +135,7 @@
 
 <div align="center">
     <p>
-        平凡世界，贵在坚持。
+        在颠覆世界的同时，也要好好关照自己。
     </p>
     <img src="./img/contact.png" />
 </div>
