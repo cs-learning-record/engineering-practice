@@ -96,6 +96,7 @@
 18. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
 19. [你所需要的npm知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
 20. [教你从零写一个nodejs包，然后发布至npm源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
+21. [前端开发环境](http://fe.surge.sh/guide/)
 
 ## 七、脚手架
 
