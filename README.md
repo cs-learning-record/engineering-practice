@@ -72,6 +72,7 @@
 1. [前端开发规范](https://github.com/senntyou/blogs/blob/master/architecture/3.md)
 1. [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 1. [前端开发规范手册](https://github.com/Aaaaaashu/Guide)
+2. [前端代码规范](https://github.com/airbnb/javascript)
 
 ## 六、前端工具
 
