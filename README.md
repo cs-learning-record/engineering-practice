@@ -75,6 +75,7 @@
 1. [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 1. [前端开发规范手册](https://github.com/Aaaaaashu/Guide)
 2. [前端代码规范](https://github.com/airbnb/javascript)
+3. [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
 
 ## 六、前端工具
 
@@ -139,12 +140,13 @@
 3. [持续集成 vs 持续交付 vs 持续部署](https://mp.weixin.qq.com/s/Y09_FYS2IWae24geE7tK-Q)
 4. [使用 Docker 构建前端应用](https://zhuanlan.zhihu.com/p/39241059)
 5. [Jenkins 打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
-6. [Nginx 配置详解](https://www.cnblogs.com/knowledgesea/p/5175711.html)
-7. [Nginx 代理功能与负载均衡详解](https://www.cnblogs.com/knowledgesea/p/5199046.html)
-8. [Node+GitLab 实现小程序 CI 系统](https://mp.weixin.qq.com/s/5NsY5cj0n1AuU0-zT1VrEQ)
-9. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/0VtDFv5bxJp2OyJGufBV0w)
-10. [让自动化工作流解放你的双手](https://mp.weixin.qq.com/s/MJX5pVwugKsRO__fjhPVmg)
-11. [基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/z2f1i2FgrVGofQR6nKTd1A)
+6. [一文搞定前端 Jenkins 自动化部署](https://mp.weixin.qq.com/s/DLXnbY3AcZHMgrPw0T28mQ)
+7. [Nginx 配置详解](https://www.cnblogs.com/knowledgesea/p/5175711.html)
+8. [Nginx 代理功能与负载均衡详解](https://www.cnblogs.com/knowledgesea/p/5199046.html)
+9. [Node+GitLab 实现小程序 CI 系统](https://mp.weixin.qq.com/s/5NsY5cj0n1AuU0-zT1VrEQ)
+10. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/0VtDFv5bxJp2OyJGufBV0w)
+11. [让自动化工作流解放你的双手](https://mp.weixin.qq.com/s/MJX5pVwugKsRO__fjhPVmg)
+12. [基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/z2f1i2FgrVGofQR6nKTd1A)
 
 ## 十、调试
 
