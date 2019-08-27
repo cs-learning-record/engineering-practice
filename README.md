@@ -47,12 +47,12 @@
 1. [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 1. [Web 前端开发的后端指南](https://mp.weixin.qq.com/s/tbJ-X3_zKi4vR_1ST5maTQ)
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
-1. [yhlben 的前端日志](https://yhlben.github.io/blog/)
 1. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
 1. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
 1. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
 1. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
 2. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+3. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
 
 ## 四、Electron&PWA&Serverless
 
@@ -66,6 +66,7 @@
 8. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
 9. [前端学 serverless 系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
 10. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
+11. [可能是你见过最完善的微前端解决方案](https://mp.weixin.qq.com/s/qMd6k9xSSNjskN3wB5PGgA)
 
 ## 五、规范化
 
