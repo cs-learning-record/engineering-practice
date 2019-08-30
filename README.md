@@ -9,8 +9,8 @@
 
 暂时欠着
 
-|              I              |           II            |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
-| :-------------------------: | :---------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
+|              I              |           II           |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
+| :-------------------------: | :--------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
 | 浏览器<br />[📝](#一浏览器) | 性能<br/>[☕️](#二性能) | 工程化<br />[🐍](#三工程化) | Electron&PWA&Serverless<br />[🔗](#四Electron&PWA&Serverless) | 规范化<br />[📖](#五规范化) | 前端工具<br/> [🔍](#六前端工具) | 脚手架<br/>[☁️](#七脚手架) | 监控<br/>[📃](#八监控) | 部署&构建<br />[💡](#九部署&构建) | 调试<br/>[🔨](#十调试) |
 
 ## 一、浏览器
@@ -95,14 +95,15 @@
 1. [搜罗一切 webpack 的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
 1. [【webpack 进阶】你真的掌握了 loader 么？- loader 十问](https://github.com/alienzhou/blog/issues/21)
 1. [[webpack]源码解读：命令行输入 webpack 的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12)
-1. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
-1. [在线电子书转换器](http://cn.epubee.com/)
-1. [vim-web](https://github.com/jaywcjlove/vim-web)
-1. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
-1. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
-1. [你所需要的 npm 知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
-1. [教你从零写一个 nodejs 包，然后发布至 npm 源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
-1. [前端开发环境](http://fe.surge.sh/guide/)
+2. [Webpack优化——将你的构建效率提速翻倍](https://mp.weixin.qq.com/s/WmTWXoYn_CvD60nd0_biuQ)
+3. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
+4. [在线电子书转换器](http://cn.epubee.com/)
+5. [vim-web](https://github.com/jaywcjlove/vim-web)
+6. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
+7. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
+8. [你所需要的 npm 知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
+9. [教你从零写一个 nodejs 包，然后发布至 npm 源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
+10. [前端开发环境](http://fe.surge.sh/guide/)
 
 ## 七、脚手架
 
