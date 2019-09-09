@@ -9,8 +9,8 @@
 
 暂时欠着
 
-|              I              |           II           |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
-| :-------------------------: | :--------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
+|              I              |           II            |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
+| :-------------------------: | :---------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
 | 浏览器<br />[📝](#一浏览器) | 性能<br/>[☕️](#二性能) | 工程化<br />[🐍](#三工程化) | Electron&PWA&Serverless<br />[🔗](#四Electron&PWA&Serverless) | 规范化<br />[📖](#五规范化) | 前端工具<br/> [🔍](#六前端工具) | 脚手架<br/>[☁️](#七脚手架) | 监控<br/>[📃](#八监控) | 部署&构建<br />[💡](#九部署&构建) | 调试<br/>[🔨](#十调试) |
 
 ## 一、浏览器
@@ -47,12 +47,13 @@
 1. [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 1. [Web 前端开发的后端指南](https://mp.weixin.qq.com/s/tbJ-X3_zKi4vR_1ST5maTQ)
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
+1. [大前端](https://github.com/azl397985856/automate-everything)
+1. [yhlben 的前端日志](https://yhlben.github.io/blog/)
 1. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
 1. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
 1. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
 1. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
-2. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
-3. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
+1. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
 
 ## 四、Electron&PWA&Serverless
 
@@ -66,7 +67,6 @@
 8. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
 9. [前端学 serverless 系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
 10. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
-11. [可能是你见过最完善的微前端解决方案](https://mp.weixin.qq.com/s/qMd6k9xSSNjskN3wB5PGgA)
 
 ## 五、规范化
 
@@ -95,15 +95,14 @@
 1. [搜罗一切 webpack 的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
 1. [【webpack 进阶】你真的掌握了 loader 么？- loader 十问](https://github.com/alienzhou/blog/issues/21)
 1. [[webpack]源码解读：命令行输入 webpack 的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12)
-2. [Webpack优化——将你的构建效率提速翻倍](https://mp.weixin.qq.com/s/WmTWXoYn_CvD60nd0_biuQ)
-3. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
-4. [在线电子书转换器](http://cn.epubee.com/)
-5. [vim-web](https://github.com/jaywcjlove/vim-web)
-6. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
-7. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
-8. [你所需要的 npm 知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
-9. [教你从零写一个 nodejs 包，然后发布至 npm 源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
-10. [前端开发环境](http://fe.surge.sh/guide/)
+1. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
+1. [在线电子书转换器](http://cn.epubee.com/)
+1. [vim-web](https://github.com/jaywcjlove/vim-web)
+1. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
+1. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
+1. [你所需要的 npm 知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
+1. [教你从零写一个 nodejs 包，然后发布至 npm 源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
+1. [前端开发环境](http://fe.surge.sh/guide/)
 
 ## 七、脚手架
 
@@ -151,6 +150,7 @@
 10. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/0VtDFv5bxJp2OyJGufBV0w)
 11. [让自动化工作流解放你的双手](https://mp.weixin.qq.com/s/MJX5pVwugKsRO__fjhPVmg)
 12. [基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/z2f1i2FgrVGofQR6nKTd1A)
+13. [基于 GitLab CI 的前端工程 CI/CD 实践](https://github.com/giscafer/front-end-manual/issues/27)
 
 ## 十、调试
 
