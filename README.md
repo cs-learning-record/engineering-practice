@@ -114,6 +114,7 @@
 1. [自动开发生成脚手架](https://github.com/yanlele/le-cli)
 1. [搭建自己的前端脚手架](https://github.com/senntyou/blogs/blob/master/advanced/13.md)
 1. [【中高级前端必备】手摸手教你撸一个脚手架](https://mp.weixin.qq.com/s/noKG8ylD2EbsB1dENh2xug)
+2. [【手把手】15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364)
 
 ## 八、监控
 
