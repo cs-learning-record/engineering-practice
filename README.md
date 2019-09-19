@@ -49,15 +49,16 @@
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
 2. [QQ音乐商业化Web团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
 3. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
-4. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
-5. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
-6. [大前端](https://github.com/azl397985856/automate-everything)
-7. [yhlben 的前端日志](https://yhlben.github.io/blog/)
-8. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
-9. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
-10. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
-11. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
-12. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+4. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
+5. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
+6. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
+7. [大前端](https://github.com/azl397985856/automate-everything)
+8. [yhlben 的前端日志](https://yhlben.github.io/blog/)
+9. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
+10. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
+11. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
+12. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
+13. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
 
 ## 四、Electron&PWA&Serverless
 
@@ -118,6 +119,7 @@
 1. [搭建自己的前端脚手架](https://github.com/senntyou/blogs/blob/master/advanced/13.md)
 1. [【中高级前端必备】手摸手教你撸一个脚手架](https://mp.weixin.qq.com/s/noKG8ylD2EbsB1dENh2xug)
 2. [【手把手】15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364)
+3. [一个零配置开箱即用的React/Vue应用自动化构建脚手架](https://github.com/JowayYoung/bruce-cli)
 
 ## 八、监控
 
