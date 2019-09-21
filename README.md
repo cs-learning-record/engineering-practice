@@ -9,8 +9,8 @@
 
 暂时欠着
 
-|              I              |           II           |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
-| :-------------------------: | :--------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
+|              I              |           II            |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
+| :-------------------------: | :---------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
 | 浏览器<br />[📝](#一浏览器) | 性能<br/>[☕️](#二性能) | 工程化<br />[🐍](#三工程化) | Electron&PWA&Serverless<br />[🔗](#四Electron&PWA&Serverless) | 规范化<br />[📖](#五规范化) | 前端工具<br/> [🔍](#六前端工具) | 脚手架<br/>[☁️](#七脚手架) | 监控<br/>[📃](#八监控) | 部署&构建<br />[💡](#九部署&构建) | 调试<br/>[🔨](#十调试) |
 
 ## 一、浏览器
@@ -47,31 +47,32 @@
 1. [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 1. [Web 前端开发的后端指南](https://mp.weixin.qq.com/s/tbJ-X3_zKi4vR_1ST5maTQ)
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
-2. [QQ音乐商业化Web团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
-3. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
-4. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
-5. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
-6. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
-7. [大前端](https://github.com/azl397985856/automate-everything)
-8. [yhlben 的前端日志](https://yhlben.github.io/blog/)
-9. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
-10. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
-11. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
-12. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
-13. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+1. [QQ 音乐商业化 Web 团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
+1. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
+1. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
+1. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
+1. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
+1. [大前端](https://github.com/azl397985856/automate-everything)
+1. [yhlben 的前端日志](https://yhlben.github.io/blog/)
+1. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
+1. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
+1. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
+1. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
+1. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
 
 ## 四、Electron&PWA&Serverless
 
 1. [Flutter 完整开发实战详解系列](https://github.com/CarGuo/GSYFlutterBook)
-2. [FlutterDemo 合集](https://github.com/OpenFlutter/Flutter-Notebook)
-3. [用 JS 开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s/owtLBHgpzXqbJs3P1mjmLA)
-4. [Electron 构建跨平台应用 Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
-5. [electron 中文教程](https://wizardforcel.gitbooks.io/electron-doc/)
-6. [PWA 入门](https://zhuanlan.zhihu.com/p/32601560)
-7. [【PWA 学习与实践】(1) 2018，开始你的 PWA 学习之旅](https://github.com/alienzhou/blog/issues/2)
-8. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
-9. [前端学 serverless 系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
-10. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
+1. [超完整的 Flutter 项目](https://github.com/CarGuo/GSYGithubAppFlutter)
+1. [FlutterDemo 合集](https://github.com/OpenFlutter/Flutter-Notebook)
+1. [用 JS 开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s/owtLBHgpzXqbJs3P1mjmLA)
+1. [Electron 构建跨平台应用 Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
+1. [electron 中文教程](https://wizardforcel.gitbooks.io/electron-doc/)
+1. [PWA 入门](https://zhuanlan.zhihu.com/p/32601560)
+1. [【PWA 学习与实践】(1) 2018，开始你的 PWA 学习之旅](https://github.com/alienzhou/blog/issues/2)
+1. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
+1. [前端学 serverless 系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
+1. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
 
 ## 五、规范化
 
@@ -118,8 +119,8 @@
 1. [自动开发生成脚手架](https://github.com/yanlele/le-cli)
 1. [搭建自己的前端脚手架](https://github.com/senntyou/blogs/blob/master/advanced/13.md)
 1. [【中高级前端必备】手摸手教你撸一个脚手架](https://mp.weixin.qq.com/s/noKG8ylD2EbsB1dENh2xug)
-2. [【手把手】15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364)
-3. [一个零配置开箱即用的React/Vue应用自动化构建脚手架](https://github.com/JowayYoung/bruce-cli)
+1. [【手把手】15 分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364)
+1. [一个零配置开箱即用的 React/Vue 应用自动化构建脚手架](https://github.com/JowayYoung/bruce-cli)
 
 ## 八、监控
 
