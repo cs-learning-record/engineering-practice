@@ -9,8 +9,8 @@
 
 暂时欠着
 
-|              I              |           II            |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
-| :-------------------------: | :---------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
+|              I              |           II           |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
+| :-------------------------: | :--------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
 | 浏览器<br />[📝](#一浏览器) | 性能<br/>[☕️](#二性能) | 工程化<br />[🐍](#三工程化) | Electron&PWA&Serverless<br />[🔗](#四Electron&PWA&Serverless) | 规范化<br />[📖](#五规范化) | 前端工具<br/> [🔍](#六前端工具) | 脚手架<br/>[☁️](#七脚手架) | 监控<br/>[📃](#八监控) | 部署&构建<br />[💡](#九部署&构建) | 调试<br/>[🔨](#十调试) |
 
 ## 一、浏览器
@@ -25,6 +25,7 @@
 1. [V8 引擎初步介绍](https://github.com/yanlele/node-index/tree/master/18%E5%B9%B4/12%E6%9C%88/03%E3%80%81V8%E5%BC%95%E6%93%8E%E5%88%9D%E6%AD%A5%E4%BB%8B%E7%BB%8D#%E6%B8%B2%E6%9F%93%E5%BC%95%E6%93%8E%E4%B8%8E%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93)
 1. [Chromium 中文文档](https://github.com/ahangchen/Chromium_doc_zh)
 1. [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
+2. [11道浏览器原理面试题](https://juejin.im/post/5d89798d6fb9a06b102769b1)
 
 ## 二、性能
 
@@ -49,16 +50,17 @@
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
 1. [QQ 音乐商业化 Web 团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
 1. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
-1. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
-1. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
-1. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
-1. [大前端](https://github.com/azl397985856/automate-everything)
-1. [yhlben 的前端日志](https://yhlben.github.io/blog/)
-1. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
-1. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
-1. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
-1. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
-1. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+2. [透过现象看本质: 常见的前端架构风格和案例](https://mp.weixin.qq.com/s/m_twmahOfn2TuZpUbjndHA)
+3. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
+4. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
+5. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
+6. [大前端](https://github.com/azl397985856/automate-everything)
+7. [yhlben 的前端日志](https://yhlben.github.io/blog/)
+8. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
+9. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
+10. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
+11. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
+12. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
 
 ## 四、Electron&PWA&Serverless
 
@@ -89,26 +91,28 @@
 
 1. [webpack 学习记录](https://github.com/ftTony/blog/issues/2)
 1. [深入 Babel，这一篇就够了](https://juejin.im/post/5c21b584e51d4548ac6f6c99)
-1. [git 学习](https://github.com/geeeeeeeeek/git-recipes)
-1. [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
-1. [Git 工作流指南](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
-1. [git 常用命令](https://github.com/ftTony/blog/issues/27)
-1. [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
-1. [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
-1. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-1. [gulp 学习](https://www.gulpjs.com.cn/)
-1. [由浅入深 Webpack](https://github.com/yanlele/node-index/blob/master/book/11、深入webpack工程化/01、由浅入深Webpack/README.md)
-1. [搜罗一切 webpack 的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
-1. [【webpack 进阶】你真的掌握了 loader 么？- loader 十问](https://github.com/alienzhou/blog/issues/21)
-1. [[webpack]源码解读：命令行输入 webpack 的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12)
-1. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
-1. [在线电子书转换器](http://cn.epubee.com/)
-1. [vim-web](https://github.com/jaywcjlove/vim-web)
-1. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
-1. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
-1. [你所需要的 npm 知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
-1. [教你从零写一个 nodejs 包，然后发布至 npm 源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
-1. [前端开发环境](http://fe.surge.sh/guide/)
+2. [前端工程师需要了解的 Babel 知识](https://mp.weixin.qq.com/s/HdIvS75nJ0JFStoNPIl7Iw)
+3. [webpack 处理流程分析](https://mp.weixin.qq.com/s/1BH90Nn6rfcOfywGpvWwhA)
+4. [git 学习](https://github.com/geeeeeeeeek/git-recipes)
+5. [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
+6. [Git 工作流指南](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
+7. [git 常用命令](https://github.com/ftTony/blog/issues/27)
+8. [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
+9. [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
+10. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+11. [gulp 学习](https://www.gulpjs.com.cn/)
+12. [由浅入深 Webpack](https://github.com/yanlele/node-index/blob/master/book/11、深入webpack工程化/01、由浅入深Webpack/README.md)
+13. [搜罗一切 webpack 的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
+14. [【webpack 进阶】你真的掌握了 loader 么？- loader 十问](https://github.com/alienzhou/blog/issues/21)
+15. [[webpack]源码解读：命令行输入 webpack 的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12)
+16. [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
+17. [在线电子书转换器](http://cn.epubee.com/)
+18. [vim-web](https://github.com/jaywcjlove/vim-web)
+19. [文件 package.json 的说明文档](https://github.com/jaywcjlove/package.json)
+20. [13 个 npm 快速开发技巧](https://juejin.im/post/5d1d40ea6fb9a07eb94fa7df)
+21. [你所需要的 npm 知识储备都在这了](https://juejin.im/post/5d08d3d3f265da1b7e103a4d)
+22. [教你从零写一个 nodejs 包，然后发布至 npm 源上](https://mp.weixin.qq.com/s/Z2zbd9RjOpHYfR_eGnrHJg)
+23. [前端开发环境](http://fe.surge.sh/guide/)
 
 ## 七、脚手架
 
