@@ -39,6 +39,7 @@
 8. [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
 9. [Web 性能](https://github.com/laoqiren/web-performance)
 10. [前端性能优化之旅](https://github.com/alienzhou/fe-performance-journey)
+11. [前端性能优化之白屏时间](https://mp.weixin.qq.com/s/N_6faORvlDSxFQMh1o2naA)
 
 ## 三、工程化
 
@@ -48,19 +49,22 @@
 1. [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 1. [Web 前端开发的后端指南](https://mp.weixin.qq.com/s/tbJ-X3_zKi4vR_1ST5maTQ)
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
-1. [QQ 音乐商业化 Web 团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
-1. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
-2. [透过现象看本质: 常见的前端架构风格和案例](https://mp.weixin.qq.com/s/m_twmahOfn2TuZpUbjndHA)
-3. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
-4. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
-5. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
-6. [大前端](https://github.com/azl397985856/automate-everything)
-7. [yhlben 的前端日志](https://yhlben.github.io/blog/)
-8. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
-9. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
-10. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
-11. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
-12. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+2. [【PPT】快手前端架构师](https://mp.weixin.qq.com/s/y1SX8CQmc8WROBrSBGbpgw)
+3. [详解|天猫搜索前端技术历代记](https://mp.weixin.qq.com/s/R38oST2_DvxA5zrh8eQ5Eg)
+4. [QQ 音乐商业化 Web 团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
+5. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
+6. [透过现象看本质: 常见的前端架构风格和案例](https://mp.weixin.qq.com/s/m_twmahOfn2TuZpUbjndHA)
+7. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
+8. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
+9. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
+10. [大前端](https://github.com/azl397985856/automate-everything)
+11. [yhlben 的前端日志](https://yhlben.github.io/blog/)
+12. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
+13. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
+14. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
+15. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
+16. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+17. [移动 web 最佳实践](https://juejin.im/post/5d759f706fb9a06afa32adec)
 
 ## 四、Electron&PWA&Serverless
 
@@ -162,6 +166,7 @@
 11. [让自动化工作流解放你的双手](https://mp.weixin.qq.com/s/MJX5pVwugKsRO__fjhPVmg)
 12. [基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/z2f1i2FgrVGofQR6nKTd1A)
 13. [基于 GitLab CI 的前端工程 CI/CD 实践](https://github.com/giscafer/front-end-manual/issues/27)
+14. [要进大厂？前端灰度发布必须要知道](https://mp.weixin.qq.com/s/54GgUM1saYvZCRP1sJ0Kug)
 
 ## 十、调试
 
