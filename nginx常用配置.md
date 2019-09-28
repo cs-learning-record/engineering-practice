@@ -1,4 +1,4 @@
-![image](../img/timg.jpg)
+![image](./img/timg.jpg)
 <br>
 
 ## 前言
@@ -11,21 +11,76 @@
 
 ## 内容
 
-- Ngnix介绍
-- Nginx基本配置与参数说明
-- Nginx负载均衡
-- Nginx反向代理
-- 配置Gzip
+- [Ngnix介绍](#一Ngnix介绍)
+- [安装](#二安装)
+- [Nginx基本配置与参数说明](#三Nginx基本配置与参数说明)
+- [Nginx负载均衡](#四Nginx负载均衡)
+- [Nginx反向代理](#五Nginx反向代理)
+- [配置Gzip](#六配置Gzip)
 
 ### 一、Ngnix介绍
 
 Nginx是一款轻量级的网页服务器、反向代理器以及电子邮件代理服务器。其将源代码以类BSD许可证的形式发布，因它的稳定性、丰富的功能集、示例配置文件和低系统资源的消耗而闻名。类似的web服务器有Apache、IIS。
 
-### 二、Nginx基本配置与参数说明
+### 二、安装
+
+### 2.1 安装依赖包
+
+```
+//一键安装上面四个依赖
+yum -y install gcc zlib zlib-devel pcre-devel openssl openssl-devel
+```
+
+### 2.2 下载并解压安装包
+
+```
+
+//创建一个文件夹
+cd /usr/local
+mkdir nginx
+cd nginx
+//下载tar包
+wget http://nginx.org/download/nginx-1.13.7.tar.gz
+tar -xvf nginx-1.13.7.tar.gz
+```
+
+### 2.3 安装nginx
+
+```
+//进入nginx目录
+cd /usr/local/nginx
+//执行命令
+./configure
+//执行make命令
+make
+//执行make install命令
+make install
+```
+
+#### 2.4 启动
+
+```
+/usr/local/nginx/sbin/nginx -s reload
+```
+
+查看nginx进程是否启动：
+
+`ps -ef | grep nginx`
+
+#### 2.5 关闭防火墙
+
+- centOS6及以前版本使用命令： `systemctl stop iptables.service`
+- centOS7关闭防火墙命令： `systemctl stop firewalld.service`
+
+#### 2.6 启动，关闭，重启，命令
+
+进入安装目录中，命令：`cd /usr/local/nginx/sbin`，`./nginx` 启动，`./nginx -s stop` 关闭，`./nginx -s reload`重启。
+
+### 三、Nginx基本配置与参数说明
 
 nginx配置文件主要分为六个区域：main(全局设置)、events(nginx工作模式)、http(http设置)、server(主机设置)、location(URL匹配)、upstream(负载均衡器设置)。
   
-#### 2.1 main模块
+#### 3.1 main模块
 
 ```
 user nobody nobody;
@@ -42,7 +97,7 @@ worker_rlimit_nofile 1024;
 - `pid`：用来指定进程id的存储文件位置。
 - `worker_rlimit_nofile`：用于指定一个nginx进程可以打开的最多文件描述符数目，这里是65535，需要使用命令“ulimit -n 65535”来设置。
 
-#### 2.2 events 模块
+#### 3.2 events 模块
 
 events模块来用指定nginx的工作模式和工作模式及连接数上限，一般是这样：
    
@@ -57,7 +112,7 @@ events {
 - `use`：用来指定Nginx的工作模式。Nginx支持的工作模式有select、poll、kqueue、epoll、rtsig和/dev/poll。其中select和poll都是标准的工作模式，kqueue和epoll是高效的工作模式，不同的是epoll用在Linux平台上，而kqueue用在BSD系统中，因为Mac基于BSD,所以Mac也得用这个模式，对于Linux系统，epoll工作模式是首选。
 - `worker_connections`：用于定义`Nginx`每个进程的最大连接数，即接收前端的最大请求数，默认是`1024`。最大客户端连接数由`worker_processes`和`worker_connections`决定，即`Max_clients=worker_processes*worker_connections`，在作为反向代理时，`Max_clients`变为：`Max_clients = worker_processes * worker_connections/4`。进程的最大连接数受Linux系统进程的最大打开文件数限制，在执行操作系统命令“ulimit -n 65536”后`worker_connections`的设置才能生效。
 
-#### 2.3 http 模块
+#### 3.3 http 模块
 
 http模块可以说是最核心的模块了，它负责HTTP服务器相关属性的配置，它里面的server和upstream子模块，至关重要。
 
@@ -92,7 +147,7 @@ http{
 - `sendfile`：参数用于开启高效文件传输模式。将`tcp_nopush`和`tcp_nodelay`两个指令设置为`on`用于防止网络阻塞。
 - `keepalive_timeout`：设置客户端连接保持活动的超时时间。在超过这个时间之后，服务器会关闭该连接。
 
-#### 2.4 server 模块
+#### 3.4 server 模块
 
 `sever`模块是`http`的子模块，它用来定一个虚拟主机，我们先讲最基本的配置，这些在后面再讲。
 
@@ -118,7 +173,7 @@ server {
 - `charset`：用于设置网页的默认编码格式。
 - `access_log`：用来指定此虚拟主机的访问日志存放路径，最后的`main`用于指定访问日志的输出格式。
 
-#### 2.5 location 模块
+#### 3.5 location 模块
 
 `location`模块是nginx中用的最多的，也是最重要的模块了，什么负载均衡啊、反向代理啊、虚拟域名啊都与它相关;location 根据它字面意思就知道是来定位的，定位URL，解析URL，所以，它也提供了强大的正则匹配功能，也支持条件判断匹配，用户可以通过location指令实现Nginx对动、静态网页进行过滤处理。像我们的php环境搭建就是用到了它。
 
@@ -146,11 +201,10 @@ location ~ \.php$ {
 }
 ```
 
-`\.php$`熟悉正则的我们直到，这是匹配.php结尾的URL，用来解析php文件。里面的root也是一样，用来表示虚拟主机的根目录。 
+`\.php$`熟悉正则的我们直到，这是匹配.php结尾的URL，用来解析php文件。里面的root也是一样，用来表示虚拟主机的根目录。
 fast_pass链接的是php-fpm 的地址，之前我们也搭建过。
 
-
-### 三、Nginx负载均衡
+### 四、Nginx负载均衡
 
 - 轮询（默认），请求过来后，Nginx 随机分配流量到任一服务器
 
@@ -199,26 +253,26 @@ upstream backend {
 }
 ```
 
-### 四、Nginx反向代理
+### 五、Nginx反向代理
 
 - 什么是反向代理
 - 反射代理的作用
 - 反射代理配置
 
-#### 4.1 什么是反向代理
+#### 5.1 什么是反向代理
   
 反向代理是指以代理服务器来接受internet上的连接请求，然后奖请求转发给内部网络上的服务器，并将从服务器上得到的结果返回给internet上请求连接的客户端，此时代理服务器对外就是表现为一个服务器.
   
 代理情况：`client —(send request)—> clinet proxy –(send request)—> server`
 
-#### 4.2 反射代理的作用
+#### 5.2 反射代理的作用
 
 保护网站安全：任何来自internet的请求都必须先经过代理器；
 通过配置缓存功能加速web请求：可以缓存真实web服务器上的某些静态资源，减轻真实web服务器的负载压力；
 
 实现负载均衡：充当负载均衡服务器均衡分发请求，平衡集群中各个服务器的负载压力。
 
-#### 4.3 反向代理配置
+#### 5.3 反向代理配置
 
 ```
 location /api {   
@@ -243,7 +297,7 @@ location /api {
 - `break`继续本次请求后面的处理 ,停止匹配下面的location。需要注意的是与之类似的last执行过程则是停止当前这个请求，并根据rewrite匹配的规则重新发起一个请求，从上到下依次匹配location后面的规则。
 - `proxy_pass`代理服务器。
 
-### 五、配置Gzip
+### 六、配置Gzip
 
 ```
 server {
@@ -273,5 +327,5 @@ server {
     <p>
         平凡世界，贵在坚持。
     </p>
-    <img src="../img/contact.png" />
+    <img src="./img/contact.png" />
 </div>

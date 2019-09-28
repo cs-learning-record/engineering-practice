@@ -1,4 +1,4 @@
-![image](../img/timg.jpg)
+![image](./img/timg.jpg)
 <br>
 
 ## 前言
@@ -429,5 +429,5 @@ $ git stash pop
     <p>
         平凡世界，贵在坚持。
     </p>
-    <img src="../img/contact.png" />
+    <img src="./img/contact.png" />
 </div>
