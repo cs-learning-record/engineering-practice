@@ -13,6 +13,7 @@
 
 - [分支模型](#一分支模型)
 - [Git常用命令清单](#二Git常用命令清单)
+- [Git常用命令导图](#三、Git常用命令导图)
 
 ### 一、分支模型
 
@@ -416,6 +417,10 @@ $ git revert [commit]
 $ git stash
 $ git stash pop
 ```
+
+### 三、Git常用命令导图
+
+![](./img/git-Commands.png)
 
 ### 参考资料
 
