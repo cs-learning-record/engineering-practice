@@ -177,6 +177,7 @@
 1. [直播学习与实践](https://github.com/ftTony/blog/issues/4)
 1. [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
 1. [微信调试](https://github.com/wuchangming/spy-debugger)
+2. [【译】Google 官方文章——如何去做code review](https://juejin.im/post/5d80c27cf265da03e61b45c7)
 
 ## 十一、联系作者
 
