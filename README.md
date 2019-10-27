@@ -9,8 +9,8 @@
 
 暂时欠着
 
-|              I              |           II           |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
-| :-------------------------: | :--------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
+|              I              |           II            |             III             |                              IV                               |              V              |               VI                |            VII             |          VIII          |                IX                 |           X            |
+| :-------------------------: | :---------------------: | :-------------------------: | :-----------------------------------------------------------: | :-------------------------: | :-----------------------------: | :------------------------: | :--------------------: | :-------------------------------: | :--------------------: |
 | 浏览器<br />[📝](#一浏览器) | 性能<br/>[☕️](#二性能) | 工程化<br />[🐍](#三工程化) | Electron&PWA&Serverless<br />[🔗](#四Electron&PWA&Serverless) | 规范化<br />[📖](#五规范化) | 前端工具<br/> [🔍](#六前端工具) | 脚手架<br/>[☁️](#七脚手架) | 监控<br/>[📃](#八监控) | 部署&构建<br />[💡](#九部署&构建) | 调试<br/>[🔨](#十调试) |
 
 ## 一、浏览器
@@ -21,12 +21,12 @@
 1. [九种跨域方式](https://github.com/ftTony/blog/issues/21)
 1. [深度解析 CORS 跨域原理及 @koa/cors 源码](https://mp.weixin.qq.com/s/S9NYjMAXq31zbieYBRG-rg)
 1. [每个前端工程师都应该了解的图片知识(长文建议收藏)](https://mp.weixin.qq.com/s/O1n7_t4izdmpvn2mFrB-kg)
-2. [你必须知道的图片优化技巧](https://mp.weixin.qq.com/s/oJy2fncLjtlt9XmPRWnqVw)
-3. [深入理解现代浏览器](https://mp.weixin.qq.com/s/LkKNjrkx1V32lCjv92Cuuw)
-4. [V8 引擎初步介绍](https://github.com/yanlele/node-index/tree/master/18%E5%B9%B4/12%E6%9C%88/03%E3%80%81V8%E5%BC%95%E6%93%8E%E5%88%9D%E6%AD%A5%E4%BB%8B%E7%BB%8D#%E6%B8%B2%E6%9F%93%E5%BC%95%E6%93%8E%E4%B8%8E%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93)
-5. [Chromium 中文文档](https://github.com/ahangchen/Chromium_doc_zh)
-6. [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
-7. [11道浏览器原理面试题](https://juejin.im/post/5d89798d6fb9a06b102769b1)
+1. [你必须知道的图片优化技巧](https://mp.weixin.qq.com/s/oJy2fncLjtlt9XmPRWnqVw)
+1. [深入理解现代浏览器](https://mp.weixin.qq.com/s/LkKNjrkx1V32lCjv92Cuuw)
+1. [V8 引擎初步介绍](https://github.com/yanlele/node-index/tree/master/18%E5%B9%B4/12%E6%9C%88/03%E3%80%81V8%E5%BC%95%E6%93%8E%E5%88%9D%E6%AD%A5%E4%BB%8B%E7%BB%8D#%E6%B8%B2%E6%9F%93%E5%BC%95%E6%93%8E%E4%B8%8E%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93)
+1. [Chromium 中文文档](https://github.com/ahangchen/Chromium_doc_zh)
+1. [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
+1. [11 道浏览器原理面试题](https://juejin.im/post/5d89798d6fb9a06b102769b1)
 
 ## 二、性能
 
@@ -50,23 +50,25 @@
 1. [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 1. [Web 前端开发的后端指南](https://mp.weixin.qq.com/s/tbJ-X3_zKi4vR_1ST5maTQ)
 1. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
-2. [【PPT】快手前端架构师](https://mp.weixin.qq.com/s/y1SX8CQmc8WROBrSBGbpgw)
-3. [详解|天猫搜索前端技术历代记](https://mp.weixin.qq.com/s/R38oST2_DvxA5zrh8eQ5Eg)
-4. [QQ 音乐商业化 Web 团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
-5. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
-6. [【第1722期】京东 PC 首页 2019 改版前端总结](https://mp.weixin.qq.com/s/prgpYTSVrBKTsO1JDrgh3Q)
-7. [透过现象看本质: 常见的前端架构风格和案例](https://mp.weixin.qq.com/s/m_twmahOfn2TuZpUbjndHA)
-8. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
-9. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
-10. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
-11. [大前端](https://github.com/azl397985856/automate-everything)
-12. [lmjben 的前端日志](https://lmjben.github.io/blog/)
-13. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
-14. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
-15. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
-16. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
-17. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
-18. [移动 web 最佳实践](https://juejin.im/post/5d759f706fb9a06afa32adec)
+1. [【PPT】快手前端架构师](https://mp.weixin.qq.com/s/y1SX8CQmc8WROBrSBGbpgw)
+1. [详解|天猫搜索前端技术历代记](https://mp.weixin.qq.com/s/R38oST2_DvxA5zrh8eQ5Eg)
+1. [QQ 音乐商业化 Web 团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
+1. [腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？](https://mp.weixin.qq.com/s/WKhALCAarFNOCQylBUryfQ)
+1. [这些年的体验技术部 · Node.js 基础服务 - 摸爬滚打才不负功名尘土](https://www.yuque.com/afx/about/nodejs)
+1. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
+1. [【第 1722 期】京东 PC 首页 2019 改版前端总结](https://mp.weixin.qq.com/s/prgpYTSVrBKTsO1JDrgh3Q)
+1. [透过现象看本质: 常见的前端架构风格和案例](https://mp.weixin.qq.com/s/m_twmahOfn2TuZpUbjndHA)
+1. [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
+1. [独家解读：淘宝 TypeScript 多场景开发和实践](https://mp.weixin.qq.com/s/N6Jmrbi-3AY_uo_lc-dBiw)
+1. [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/6-yjR_CsHaWUI8YqLK25rA)
+1. [大前端](https://github.com/azl397985856/automate-everything)
+1. [lmjben 的前端日志](https://lmjben.github.io/blog/)
+1. [领域驱动设计在前端中的应用](https://github.com/Vincedream/ddd-fe-demo)
+1. [从这 25 个方面优化你的前端项目](https://mp.weixin.qq.com/s/awkX87vt9Gp23YfRE01C4A)
+1. [8 年前端开发的知识点沉淀](https://juejin.im/post/5d0878aaf265da1b83338f74)
+1. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
+1. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+1. [移动 web 最佳实践](https://juejin.im/post/5d759f706fb9a06afa32adec)
 
 ## 四、Electron&PWA&Serverless
 
@@ -77,8 +79,8 @@
 1. [【PWA 学习与实践】(1) 2018，开始你的 PWA 学习之旅](https://github.com/alienzhou/blog/issues/2)
 1. [【PWA 学习与实践】(2) 使用 Manifest，让你的 WebApp 更“Native”](https://github.com/alienzhou/blog/issues/3)
 1. [前端学 serverless 系列](https://juejin.im/post/5d1c9380f265da1bc94f098e)
-2. [Serverless—前端的3.0时代](https://mp.weixin.qq.com/s/4ljo3QuwgGEzQ5OHqOA01w)
-3. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
+1. [Serverless—前端的 3.0 时代](https://mp.weixin.qq.com/s/4ljo3QuwgGEzQ5OHqOA01w)
+1. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
 
 ## 五、规范化
 
@@ -98,10 +100,10 @@
 3. [git 学习](https://github.com/geeeeeeeeek/git-recipes)
 4. [面试必备！webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
 5. [Git 工作流指南](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
-6.  [git 常用命令](https://github.com/ftTony/blog/issues/27)
-7.  [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
-8.  [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
-9.  [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+6. [git 常用命令](https://github.com/ftTony/blog/issues/27)
+7. [Git 的奇技淫巧](https://github.com/521xueweihan/git-tips)
+8. [高质量的 Git 中文教程](https://github.com/geeeeeeeeek/git-recipes)
+9. [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 10. [gulp 学习](https://www.gulpjs.com.cn/)
 11. [由浅入深 Webpack](https://github.com/yanlele/node-index/blob/master/book/11、深入webpack工程化/01、由浅入深Webpack/README.md)
 12. [搜罗一切 webpack 的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
@@ -170,7 +172,7 @@
 2. [Chrome Devtools 高级调试指南（新）](https://mp.weixin.qq.com/s/tF30zFXzuI7e2fko0sgBEQ)
 3. [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
 4. [微信调试](https://github.com/wuchangming/spy-debugger)
-5. [【译】Google 官方文章——如何去做code review](https://juejin.im/post/5d80c27cf265da03e61b45c7)
+5. [【译】Google 官方文章——如何去做 code review](https://juejin.im/post/5d80c27cf265da03e61b45c7)
 6. [前端代码评审 Checklist 清单](https://github.com/fengshi123/blog/issues/1)
 
 ## 十一、联系作者
