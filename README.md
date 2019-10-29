@@ -41,6 +41,7 @@
 9. [Web 性能](https://github.com/laoqiren/web-performance)
 10. [前端性能优化之旅](https://github.com/alienzhou/fe-performance-journey)
 11. [前端性能优化之白屏时间](https://mp.weixin.qq.com/s/N_6faORvlDSxFQMh1o2naA)
+12. [网站性能优化实战——从12.67s到1.06s的故事](https://juejin.im/post/5b6fa8c86fb9a0099910ac91)
 
 ## 三、工程化
 
