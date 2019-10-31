@@ -83,6 +83,7 @@
 1. [Serverless—前端的 3.0 时代](https://mp.weixin.qq.com/s/4ljo3QuwgGEzQ5OHqOA01w)
 1. [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
 2. [面向传统，Serverless 进化之路](https://mp.weixin.qq.com/s/DSFms7ovOMMuhe914Z7vcw)
+3. [写给前端工程师的 Serverless 入门](https://mp.weixin.qq.com/s/JXDMAmKfUOj4V66yVaT_6Q)
 
 ## 五、规范化
 
