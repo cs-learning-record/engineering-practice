@@ -44,7 +44,7 @@
 6. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
 7. [【PPT】快手前端架构师](https://mp.weixin.qq.com/s/y1SX8CQmc8WROBrSBGbpgw)
 8. [详解|天猫搜索前端技术历代记](https://mp.weixin.qq.com/s/R38oST2_DvxA5zrh8eQ5Eg)
-9. [QQ 音乐商业化 Web 团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
+9. [QQ音乐商业化 Web 团队前端工程化实践总结](https://cloud.tencent.com/developer/article/1500013)
 10. [腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？](https://mp.weixin.qq.com/s/WKhALCAarFNOCQylBUryfQ)
 11. [这些年的体验技术部 · Node.js 基础服务 - 摸爬滚打才不负功名尘土](https://www.yuque.com/afx/about/nodejs)
 12. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/hRYn9D8_-RDvcfV5hdCsbw)
@@ -62,6 +62,9 @@
 24. [细数国内外的前端大牛](https://juejin.im/post/5a9224c6f265da4e710f7786)
 25. [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
 26. [移动 web 最佳实践](https://juejin.im/post/5d759f706fb9a06afa32adec)
+27. [解密国内BAT等大厂前端技术体系-阿里篇](https://mp.weixin.qq.com/s/haSCjEOVCZSeaT2q5E2BQw)
+28. [解密国内BAT等大厂前端技术体系-百度篇](https://mp.weixin.qq.com/s/O_nzIM6vdfJfd2wKDsuZAA)
+29. [解密国内BAT等大厂前端技术体系-腾讯篇](https://mp.weixin.qq.com/s/hisqcnv8g5XMOF6bzFV7pw)
 
 ## 四、Electron&PWA&Serverless
 
@@ -133,19 +136,7 @@
 
 ## 九、部署&构建
 
-1. [持续集成 vs 持续交付 vs 持续部署](https://mp.weixin.qq.com/s/Y09_FYS2IWae24geE7tK-Q)
-2. [使用 Docker 构建前端应用](https://zhuanlan.zhihu.com/p/39241059)
-3. [Jenkins 打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
-4. [一文搞定前端 Jenkins 自动化部署](https://mp.weixin.qq.com/s/DLXnbY3AcZHMgrPw0T28mQ)
-5. [Nginx 配置详解](https://www.cnblogs.com/knowledgesea/p/5175711.html)
-6. [Nginx 代理功能与负载均衡详解](https://www.cnblogs.com/knowledgesea/p/5199046.html)
-7. [Node+GitLab 实现小程序 CI 系统](https://mp.weixin.qq.com/s/5NsY5cj0n1AuU0-zT1VrEQ)
-8. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/0VtDFv5bxJp2OyJGufBV0w)
-9. [让自动化工作流解放你的双手](https://mp.weixin.qq.com/s/MJX5pVwugKsRO__fjhPVmg)
-10. [基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/z2f1i2FgrVGofQR6nKTd1A)
-11. [基于 GitLab CI 的前端工程 CI/CD 实践](https://github.com/giscafer/front-end-manual/issues/27)
-12. [GitLab CI/CD 在 Node.js 项目中的实践](https://mp.weixin.qq.com/s/AY1nJA0T7YS2YnW-GNMPFQ)
-13. [要进大厂？前端灰度发布必须要知道](https://mp.weixin.qq.com/s/54GgUM1saYvZCRP1sJ0Kug)
+1. [使用 Docker 构建前端应用](https://zhuanlan.zhihu.com/p/39241059)
 
 ## 十、调试
 
