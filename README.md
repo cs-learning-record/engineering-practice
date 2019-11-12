@@ -138,7 +138,8 @@
 3. [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
 4. [微信调试](https://github.com/wuchangming/spy-debugger)
 5. [【译】Google 官方文章——如何去做 code review](https://juejin.im/post/5d80c27cf265da03e61b45c7)
-6. [前端代码评审 Checklist 清单](https://github.com/fengshi123/blog/issues/1)
+6. [关于代码评审（Code Review）](https://mp.weixin.qq.com/s/2Fpqlhl2XLuk7dFXCPUD-A)
+7. [前端代码评审 Checklist 清单](https://github.com/fengshi123/blog/issues/1)
 
 ## 十、联系作者
 
