@@ -15,8 +15,7 @@
 
 ## 一、浏览器
 
-1. [深度解析 CORS 跨域原理及 @koa/cors 源码](https://mp.weixin.qq.com/s/S9NYjMAXq31zbieYBRG-rg)
-2. [Chromium 中文文档](https://github.com/ahangchen/Chromium_doc_zh)
+1. [Chromium 中文文档](https://github.com/ahangchen/Chromium_doc_zh)
 
 ## 二、性能
 
@@ -62,6 +61,7 @@
 27. [解密国内BAT等大厂前端技术体系-阿里篇](https://mp.weixin.qq.com/s/haSCjEOVCZSeaT2q5E2BQw)
 28. [解密国内BAT等大厂前端技术体系-百度篇](https://mp.weixin.qq.com/s/O_nzIM6vdfJfd2wKDsuZAA)
 29. [解密国内BAT等大厂前端技术体系-腾讯篇](https://mp.weixin.qq.com/s/hisqcnv8g5XMOF6bzFV7pw)
+30. [从零开始搭建创业公司后台技术栈](https://mp.weixin.qq.com/s/HlEDjrVKbH_KZo_SXjfzIQ)
 
 ## 四、Electron&PWA&Serverless
 
@@ -78,25 +78,14 @@
 11. [写给前端工程师的 Serverless 入门](https://mp.weixin.qq.com/s/JXDMAmKfUOj4V66yVaT_6Q)
 12. [[译] 微前端](https://juejin.im/post/5d0e367b6fb9a07ebf4b781a)
 
-## 五、规范化
-
-1. [前端代码质量管理（一）](https://juejin.im/post/5cb5c3445188256c83279255)
-2. [前端开发规范：命名规范、html 规范、css 规范、js 规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
-3. [前端开发规范](https://github.com/senntyou/blogs/blob/master/architecture/3.md)
-4. [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
-5. [前端开发规范手册](https://github.com/Aaaaaashu/Guide)
-6. [前端代码规范](https://github.com/airbnb/javascript)
-7. [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
-8. [文档与源码编写风格](https://github.com/fex-team/styleguide)
-
-## 六、前端工具
+## 五、前端工具
 
 1. [gulp 学习](https://www.gulpjs.com.cn/)
 2. [在线电子书转换器](http://cn.epubee.com/)
 3. [vim-web](https://github.com/jaywcjlove/vim-web)
 4. [前端开发环境](http://fe.surge.sh/guide/)
 
-## 七、脚手架
+## 六、脚手架
 
 1. [webpack 的多页应用脚手架](https://github.com/Array-Huang/webpack-seed)
 2. [利用 webpack 搭建脚手架一套完整流程](https://mp.weixin.qq.com/s/23f64lu-qAEAK76lFYyzow)
@@ -108,30 +97,7 @@
 8. [【手把手】15 分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364)
 9. [一个零配置开箱即用的 React/Vue 应用自动化构建脚手架](https://github.com/JowayYoung/bruce-cli)
 
-## 八、监控
-
-1. [如何优雅处理前端异常？](https://zhuanlan.zhihu.com/p/51800345)
-2. [前端监控](https://juejin.im/post/5b5dcfb46fb9a04f8f37afbb)
-3. [前端异常监控解决方案研究](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)
-4. [监控平台前端 SDK 开发实践](https://tech.meituan.com/2017/09/07/hunt-sdk-practice.html)
-5. [如何精确统计页面停留时长](https://techblog.toutiao.com/2018/06/05/ru-he-jing-que-tong-ji-ye-mian-ting-liu-shi-chang/)
-6. [揭开 JS 无埋点技术的神秘面纱](http://unclechen.github.io/2018/06/24/%E6%8F%AD%E5%BC%80JS%E6%97%A0%E5%9F%8B%E7%82%B9%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1/)
-7. [把前端监控做到极致](https://zhuanlan.zhihu.com/p/32262716)
-8. [2017 前端监控系统探索总结](https://juejin.im/post/5a3e121451882533f01ec66d)
-9. [分分钟拯救监控知识体系](https://mp.weixin.qq.com/s/6sxfAG1Ngr6s8Zz4zE-ncQ)
-10. [深入理解前端性能监控](https://juejin.im/post/5caaacc0e51d452b45296487)
-11. [前端黑科技：美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4)
-12. [生产环境报错如何定位源码位置](https://mp.weixin.qq.com/s/ICfqj2SgTD_QEC0KH8G9vg)
-13. [前端数据之美 -- 基础篇](http://fex.baidu.com/blog/2014/05/front_end-data/)
-14. [前端-埋点-理念-通识-浅谈](https://juejin.im/post/5d182a3bf265da1b667bf0be)
-15. [前端日志监控](https://github.com/a597873885/webfunny_monitor)
-16. [前端监控，性能监控平台](https://github.com/kisslove/web-monitoring)
-17. [浏览器端页面性能](https://github.com/wangweianger/web-report-sdk)
-18. [高性能、高可用的前端性能监控和统计平台](https://github.com/wangweianger/zanePerfor)
-19. [大流量的下兜底容灾方案](https://www.barretlee.com/blog/2015/09/16/backup-solution-at-big-traffic/)
-20. [一步一步搭建前端监控系统：如何记录用户行为？](https://juejin.im/post/5d44ec1cf265da039a2869c0)
-
-## 九、调试
+## 七、调试
 
 1. [直播学习与实践](https://github.com/ftTony/blog/issues/4)
 2. [Chrome Devtools 高级调试指南（新）](https://mp.weixin.qq.com/s/tF30zFXzuI7e2fko0sgBEQ)
@@ -141,7 +107,7 @@
 6. [关于代码评审（Code Review）](https://mp.weixin.qq.com/s/2Fpqlhl2XLuk7dFXCPUD-A)
 7. [前端代码评审 Checklist 清单](https://github.com/fengshi123/blog/issues/1)
 
-## 十、联系作者
+## 八、联系作者
 
 <div align="center">
     <p>
