@@ -62,6 +62,7 @@
 28. [解密国内BAT等大厂前端技术体系-百度篇](https://mp.weixin.qq.com/s/O_nzIM6vdfJfd2wKDsuZAA)
 29. [解密国内BAT等大厂前端技术体系-腾讯篇](https://mp.weixin.qq.com/s/hisqcnv8g5XMOF6bzFV7pw)
 30. [从零开始搭建创业公司后台技术栈](https://mp.weixin.qq.com/s/HlEDjrVKbH_KZo_SXjfzIQ)
+31. [框架设计：PC 端单页多页框架如何设计与落地](https://mp.weixin.qq.com/s/hRpwptzR4z9szQai_5GraQ)
 
 ## 四、Electron&PWA&Serverless
 
