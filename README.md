@@ -56,6 +56,8 @@
 39. [从零开始搭建创业公司后台技术栈](https://mp.weixin.qq.com/s/HlEDjrVKbH_KZo_SXjfzIQ)
 40. [框架设计：PC 端单页多页框架如何设计与落地](https://mp.weixin.qq.com/s/hRpwptzR4z9szQai_5GraQ)
 41. [服务端高并发分布式架构演进之路](https://segmentfault.com/a/1190000018626163)
+42. [浅谈 web 网站架构演变过程](https://www.cnblogs.com/xiaoMzjm/p/5223799.html)
+43. [5 年时间服务器从 0 到 200，一个创业公司的架构野蛮生长史](https://zhuanlan.zhihu.com/p/33401898)
 
 ## 四、Electron&PWA&Serverless
 
