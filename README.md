@@ -55,6 +55,7 @@
 38. [解密国内 BAT 等大厂前端技术体系-美团点评之下篇（长文建议收藏）](https://mp.weixin.qq.com/s/Tdy-SsywdoR6tPhkp8gsjg)
 39. [从零开始搭建创业公司后台技术栈](https://mp.weixin.qq.com/s/HlEDjrVKbH_KZo_SXjfzIQ)
 40. [框架设计：PC 端单页多页框架如何设计与落地](https://mp.weixin.qq.com/s/hRpwptzR4z9szQai_5GraQ)
+41. [服务端高并发分布式架构演进之路](https://segmentfault.com/a/1190000018626163)
 
 ## 四、Electron&PWA&Serverless
 
